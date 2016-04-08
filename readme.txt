@@ -1,4 +1,4 @@
-A simple voxelizer that converts ".obj" meshes files to uniform voxels.
+A simple voxelizer that converts ".obj" meshes files to uniform voxels using conservative voxelization.
 To Compile:
 Use CMake or create a new visual studio solution that includes all source ".cpp" files.
 
